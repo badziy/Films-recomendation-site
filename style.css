@@ -11,7 +11,7 @@ h2 {
 }
 
 .whatchLink:visited {
-	color:blue;
+	color: blue;
 }
 
 .details:hover {
@@ -20,7 +20,7 @@ h2 {
 }
 
 ul {
-	background-color: white;	
+	background-color: white;
 }
 
 li {
@@ -57,7 +57,7 @@ label {
 }
 
 textarea {
-	width: 1500px; 
+	width: 1500px;
 	height: 200px;
 	resize: none;
 }
@@ -70,10 +70,3 @@ footer {
 .mailLink {
 	color: #FF00FF;
 }
-
-
-
-
-
-
-
