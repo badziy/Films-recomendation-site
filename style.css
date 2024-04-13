@@ -2,12 +2,18 @@ h1 {
 	text-align: center;
 	color: #000000;
 	font-style: italic;
+	box-shadow: 0 0 20px 0 black;
 }
 
 h2 {
 	text-align: center;
 	color: #C71585;
 	background-color: black;
+	box-shadow: 0 0 20px 0 black;
+}
+
+.detailsCell {
+	box-shadow: 0 0 20px 0 #D2691E;
 }
 
 .whatchLink:visited {
@@ -31,6 +37,10 @@ li:before {
 	content: "→";
 }
 
+.actorsCell {
+	box-shadow: 0 0 20px 0 #800000;
+}
+
 .actors:hover {
 	background-color: black;
 	color: white;
@@ -48,6 +58,11 @@ p {
 
 iframe {
 	margin-left: 10%;
+	box-shadow: 0 0 20px 0 black;
+}
+
+.synopsis {
+	box-shadow: 0 0 10px 5px white;
 }
 
 label {
