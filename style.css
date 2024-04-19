@@ -20,6 +20,11 @@ h2 {
 	color: blue;
 }
 
+.whatchLink:hover {
+	background-color: #1b1b32;
+  	color: #dfdfe2;
+}
+
 .details:hover {
 	background-color: black;
 	color: white;
